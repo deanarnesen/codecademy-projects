@@ -1,0 +1,28 @@
+h1, h2, h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg")
+}
+h2 {
+    font-size: 32px;
+    color: white;
+}
+strong {
+    color: blue;
+    font-weight: bold;
+}
+.blue-heading {
+    background-color: skyblue;
+}
+.green-heading {
+    background-color: mediumspringgreen;
+}
+.red-heading {
+    background-color: lightcoral;
+}
