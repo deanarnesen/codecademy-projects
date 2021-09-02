@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Azeret Mono", monospace;
+}
+h2 {
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    font-family: "Azeret Mono", monospace;
+    text-decoration: underline;
+}
+section {
+    margin: 10px auto;
+    width: 100%;
+    text-align: center;
+}
+.color-block {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+.color-block p {
+    color: white;
+    text-align: center;
+    font-family: "Fira Code Medium", serif;
+    font-size: 30px;
+    height: 50px;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: 43%;
+}
+#dark-text {
+    color: black;
+}
+
+#color1 {
+    background-color: #345c96;
+}
+#color2 {
+    background-color: #4c7ef3;
+}
+#color3 {
+    background-color: #ffeeec;
+}
+#color4 {
+    background-color: #d85e1d;
+}
+
+#font1 {
+    font-family: "Azeret Mono", monospace;
+}
+#font2 {
+    font-family: "Catamaran", sans-serif;
+}
+
+.font-block p {
+    color: white;
+    font-size: 100px;
+}
